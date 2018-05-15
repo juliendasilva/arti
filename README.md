@@ -1,8 +1,11 @@
 # Arti
 Plateforme communautaire dédiée à l'entrepreneuriat et à l'artisanat français.
 
-# Lien
+# Lien site web
 https://arti.netlify.com/
+
+# Lien présentation
+https://github.com/juliendasilva/arti/blob/master/presentation.pdf
 
 ## License
 
