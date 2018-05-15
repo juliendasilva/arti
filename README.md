@@ -1,5 +1,5 @@
 # Arti
-Plateforme communautaire dédiée à l'entreprenariat et à l'artisanat francais.
+Plateforme communautaire dédiée à l'entrepreneuriat et à l'artisanat français.
 
 # Lien
 https://arti.netlify.com/
