@@ -1,0 +1,198 @@
+/* Tablette */
+@media screen and (min-width: 600px) and (max-width: 940px){
+	.quickacess,
+	.hide,
+	#sabonner,
+	#input2,
+	#rejoindre{
+		display: none;
+	}
+
+	h1{
+		position: absolute;
+		width: 10%;
+		left: 45%;
+	}
+
+	#burger{
+		display: block;
+		position: absolute;
+		left: 25px;
+		top: 20px;
+	}
+
+	.sliderDroite p:nth-child(1),
+	.sliderDroite p:nth-child(2){
+		font-size: 30px;
+		margin-left: 0px;
+	}
+
+	.btn{
+		margin: 40px 0 0 0;
+	}
+
+	.relative,
+	#logo{
+		width: 100%;
+	}
+
+	section#tutoriels ul li p:nth-child(2) {
+	    top: 28%;
+	}
+
+	.sliderDroite p:nth-child(1) {
+		margin-top: 5%;
+	}
+
+	#input{
+		width: 100%;
+		padding-left: 0px;
+	}
+
+	h2{
+		font-size: 12px;
+	}
+
+	#input form{
+		width: 46%;
+	}
+
+	.centrer{
+		box-sizing: border-box;
+	    padding: 0 auto;
+	    margin: 0 auto;
+	    width: 220px;
+	    padding: 20px 0px;
+	}
+
+	section#createur img {
+		width: 33%;
+	}
+}
+
+/* Mobile */
+@media screen and (min-width: 0px) and (max-width: 600px){
+	.quickacess,
+	.hide,
+	#sabonner,
+	#input2,
+	#rejoindre,
+	.sliderDroite,
+	#strat, #prod,
+	#createur a:last-child{
+		display: none;
+	}
+
+	h1{
+		position: absolute;
+		width: 10%;
+		left: 31%;
+	}
+
+	#burger{
+		display: block;
+		position: absolute;
+		left: 25px;
+		top: 24px;
+	}
+
+	#flyer{
+		width: 80%;
+	}
+
+	.btn{
+		margin: 40px 0 0 0;
+	}
+
+	.relative,
+	#logo,
+	.sliderGauche,
+	h2,
+	.partenairecenter,
+	.partenairesG,
+	.partenairesD{
+		width: 100%;
+	}
+
+	section#tutoriels ul li p:nth-child(2) {
+	    position: relative;
+	    top: 0;
+	    left: 0;
+	    margin: 0;
+	    width: 100%;
+	    font-size: 4.5vw;
+	}
+
+	.sliderDroite p:nth-child(1) {
+		margin-top: 5%;
+	}
+
+	#input{
+		width: 100%;
+		padding-left: 0px;
+	}
+
+	h2{
+		font-size: 12px;
+	}
+
+	#input form{
+		width: 90%;
+		margin: 3% 0 3% 6%;
+	}
+
+	.centrer{
+		box-sizing: border-box;
+	    padding: 0 auto;
+	    margin: 0 auto;
+	    width: 220px;
+	    padding: 20px 0px;
+	}
+
+	section#createur img {
+		width: 50%;
+	}
+
+	.relative a{
+		font-size: 14px;
+	}
+
+	.relative p{
+		font-size: 12px;
+	}
+
+	#tutoriels,
+	#createur,
+	#partenaires{
+		margin-top: 80px;
+	}
+
+	h3, h4, h5{
+		font-size: 15px;
+		margin-bottom: 25px;
+	}
+
+	#tutoriels li{
+		width: 100%;
+		padding: 0;
+		background-color: #FBF7F4;
+	}
+
+	#tutoriels a{
+		margin: 0;
+	}
+
+	.tuto_desc {
+	    margin-top: 9px !important;
+	    padding-bottom: 10px;
+	    font-size: 12px !important;
+	}
+
+	.partenairesD{
+		margin-top: 30px;
+	}
+
+	footer{
+		margin-top: 50px;
+	}
+}
